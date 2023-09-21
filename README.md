@@ -11,6 +11,19 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 1° seme
 
 Nosso projeto consiste em um site que reune dados e informações sobre a Insuficiência Renal Crônica Pediátrica. Esse projeto é destinado aos pais e cuidadores de crianças que possuem essa doença, para que possa auxiliá-los com informações úteis e atualizadas.
 
+## Tecnologias usadas
+|  usadas até o momento  |  serão usadas no futuro  |
+| :----:                 |            :-----------: |
+|           Figma             |                          |    
+|           Microsoft Planner        |                          |      
+|           Git/Github             |                          |    
+|                        |                          |   
+|                        |                          |
+|                        |                          |    
+|                        |                          |     
+|                        |                          |   
+
+
 ## 📜 Product Backlog
 
 | SPRINT | ITEM | USER STORY | STATUS |
@@ -49,9 +62,9 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 ## Autores
 |  Foto  |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
 | :----: | :-----------: | :-----------------------: | :------------------------------------------------------------: | :-----------------------------------------------: |
-| <img src=""> | Scrum Master  | Fábio Kenjy Sato Lucas | https://www.linkedin.com/in/brunoserpa/            | [GitHub](https://github.com/BrunoSerpa)           |
-| <img src=""> | Product Owner | Elisa Rachel Beninca Martins | https://www.linkedin.com/in/caiquepastelsilva      | [GitHub](https://github.com/PasteldePaodeCoxinha) |
-| <img src=""> | Dev Team      | Ana Claudia Ribeiro Reis | https://www.linkedin.com/in/diegando               | [GitHub](https://github.com/diegojose94)          |
-| <img src=""> | Dev Team      | José Gustavo Cunha dos Santos | https://www.linkedin.com/in/joaogabriel21          | [GitHub](https://github.com/LuckySky2)            |
-| <img src=""> | Dev Team      | Clayton Alves Ferreira Junior | https://www.linkedin.com/in/lucena-gabriel         | [GitHub](https://github.com/tGrimR34per)          |
-| <img src=""> | Dev Team      | Guilherme Luz Guimarães | https://www.linkedin.com/in/nathalia-domingos15    | [GitHub](https://github.com/nathalia-domingos)    |
+| <img src=""> | Scrum Master  | Fábio Kenjy Sato Lucas |             | [GitHub]()           |
+| <img src=""> | Product Owner | Elisa Rachel Beninca Martins |       | [GitHub]() |
+| <img src=""> | Dev Team      | Ana Claudia Ribeiro Reis |                | [GitHub]()          |
+| <img src=""> | Dev Team      | José Gustavo Cunha dos Santos |           | [GitHub]()            |
+| <img src=""> | Dev Team      | Clayton Alves Ferreira Junior |          | [GitHub]()          |
+| <img src=""> | Dev Team      | Guilherme Luz Guimarães |     | [GitHub]()    |
